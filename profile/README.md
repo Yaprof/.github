@@ -1,5 +1,3 @@
-<img align="center" width="100" height="100" src="https://yaprof.fr/favicon.ico">
-
 # [Yaprof](https://yaprof.fr) - La nouvelle app des étudiants
 
 <a href="https://yaprof.fr"><img height="400" src="https://github.com/Yaprof/.github/blob/1ffcf1abc76c0a61b2a582c3cb221260376ff8c9/Yaprof%20-%20La%20nouvelle%20app%20des%20%C3%A9tudiants.png" style="border-radius:30%"><a/>
