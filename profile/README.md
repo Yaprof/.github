@@ -2,7 +2,7 @@
 
 # [Yaprof](https://yaprof.fr) - La nouvelle app des étudiants
 
-<img height="400" src="https://github.com/Yaprof/.github/blob/1ffcf1abc76c0a61b2a582c3cb221260376ff8c9/Yaprof%20-%20La%20nouvelle%20app%20des%20%C3%A9tudiants.png" style="border-radius:20px">
+<img height="400" src="https://github.com/Yaprof/.github/blob/1ffcf1abc76c0a61b2a582c3cb221260376ff8c9/Yaprof%20-%20La%20nouvelle%20app%20des%20%C3%A9tudiants.png" style="border-radius:30%">
 
 Bienvenue sur le readme de l'**application** 🎉<br>
 
