@@ -1,6 +1,6 @@
 # [Yaprof](https://yaprof.fr) - La nouvelle app des étudiants
 
-<a href="https://yaprof.fr"><img src="https://github.com/Yaprof/.github/blob/e082459f53a93c19cde15711868cdb7b58154294/profile/banner.png"><a/>
+<a href="https://yaprof.fr"><img src="https://github.com/Yaprof/.github/blob/e082459f53a93c19cde15711868cdb7b58154294/profile/Banner.png"><a/>
 
 Bienvenue sur le readme de l'**application** 🎉<br>
 
