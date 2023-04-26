@@ -1,4 +1,4 @@
-# [Yaprof](https://yaprof.fr) - La nouvelle app des étudiants
+<h1 align="center"> [Yaprof](https://yaprof.fr) - La nouvelle app des étudiants </h1>
 
 <a href="https://yaprof.fr"><img src="https://github.com/Yaprof/.github/blob/b914858f739433f6aa76899f7f728ee282b3ba6e/profile/Banner.png"><a/>
 
