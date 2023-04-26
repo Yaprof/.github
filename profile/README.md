@@ -17,4 +17,5 @@ En ce qui concerne le développement, quelques règles basiques :
 - N'hésitez pas à commenter votre code
 - Résolvez les conflits à tête reposée
 
-Pour toutes informations veuillez rejoindre notre [Discord](https://discord.gg/yaprof) !
+> **Note**
+> Pour toutes informations veuillez rejoindre notre [Discord](https://discord.gg/yaprof) !
